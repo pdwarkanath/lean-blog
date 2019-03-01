@@ -51,7 +51,7 @@ Don't worry, you don't have to write the HTML yourself. This guide is not for de
 
 Luckily, several experts have used their skills to design themes which you can install and focus simply on writing content. You don't have to write the partials yourself. These come with the installed theme. We'll see how to create a static site with an installed theme in this section.
 
-[Hugo](https://gohugo.io/) is a popular static site generator. Follow theses steps to build your own Hugo site locally i.e. on your computer:
+[Hugo](https://gohugo.io/) is a popular static site generator. Follow these steps to build your own Hugo site locally i.e. on your computer:
 
 ### Install Hugo
 
@@ -288,7 +288,7 @@ Your content should be relevant to the title of the page. If your title is misle
 
 Finally, to get indexed by Google, all you need to do is set up search console for your website and submit your sitemap. Hugo automatically generates a sitemap for you on site-name.com/sitemap.xml. 
 
-To keep track of traffic on your site, set up Google Analytics. Add the property ID to the config.toml of your site and build it again and update it on github like we did above. 
+To keep track of traffic on your site, set up Google Analytics. Add the property ID to the ``config.toml`` of your site and build it again and update it on github like we did above. 
 
 
 
